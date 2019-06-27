@@ -1,0 +1,22 @@
+{
+  "name": "lodash-practice-",
+  "version": "1.0.0",
+  "description": "In class work  Lodash JS211",
+  "main": "Lodash.js",
+  "scripts": {
+    "test": "mocha --no-timeouts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MariaGretaSepulveda/Lodash-Practice-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MariaGretaSepulveda/Lodash-Practice-/issues"
+  },
+  "homepage": "https://github.com/MariaGretaSepulveda/Lodash-Practice-#readme",
+  "dependencies": {
+    "lodash": "^4.17.11"
+  }
+}
